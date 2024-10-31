@@ -17,7 +17,3 @@ function categorizeAge(age) {
     }
 }
 
-// Example usage
-const userAge = 25; // Change this value to test different ages
-categorizeAge(userAge);
-
